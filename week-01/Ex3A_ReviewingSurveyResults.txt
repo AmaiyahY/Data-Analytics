@@ -1,0 +1,43 @@
+QUESTIONS:
+1. What conclusion can you reach about the responses to this question?
+2. Is the default summary or visualization helpful? How could it be improved?
+3. For questions with an “Other” option, where can you find the actual text of those
+responses? Do you notice anything that might be tricky about analyzing these?
+4. For questions calling for a written response, what challenges do you notice about
+finding trends or patterns in the answers provided?
+5. Now that you can see the responses, how might you recommend rephrasing this or
+question or the response options in a future survey?
+
+
+1) The conclusion I can reach is that the people who have responded will make sure to have their devices ready to be able to join Zoom and review the material. When it comes to the visualization, it pulls out the most used words that were given; however, some words seem out of place without any type of context. EX: "Sure", "Minutes before class"; without context given to these words, it doesn't necessarily make any sense.
+
+
+
+2) The conclusion I have reached is that a little more than half do not have a second monitor. The visualization for this question is definitely better than the previous one, as it actually gives the chart and percentage out of 24 people on who has what and who doesn't. However, you are unable to see the "Other" option, which was the second most picked option. Since I am unable to really see the responses of the people who have chosen "Other," it leaves out some missing data that I would be able to put in my sheet if I were to ever need to.
+
+
+3) A little over half(54%) of people don't have an external mouse and keyboard. The visualization of this question looks good and helps show who had a keyboard and mouse and who didn't.
+
+4) Most, if not all, of the people who have responded to this question will be using other options to take notes(96%). However, it seems like there are different answers for different people that I can not see; as I look at the survey, there are options that I don't see. On my end, there was only one answer that I could click, and that was "A and B," but when I look through the details and see everyone else's reviews, it seems they have different options to choose from.
+
+5) The visualization for the written responses is a little are to read since most of the words are cut off, and with some there is no context, so you don't really understand what it's trying to convey unless you pull up the full responses by clicking "more details"
+
+6. Is there anything that surprised you about the survey responses?
+
+- So far, nothing has surprised me during this survey.
+
+7. Looking at the responses to questions 1 and 5, are there any ideas you might try to
+include in your morning routine, or any questions that you are also curious about?
+
+- All of the responses I basically already do, so there's nothing new that I would be adding.
+
+8. Pretend you are the instructor. Is there anything you can learn from this survey to help
+in how you approach teaching this class?
+
+- For the very last question, I would try to answer the questions that they have and their concerns. Like for the second monitor, what will be going over, what programming language we will be going over, etc.
+
+9. Again, pretend you are the instructor. Do you think it was helpful or not helpful to
+make this survey anonymous? Why or why not? (If you can see both pros and cons,
+you may include both.)
+
+- I can see it being helpful, as it can give people the courage to answer the questions without having to worry about other people judging them on what they know and what they don't.
