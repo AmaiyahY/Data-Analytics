@@ -1,3 +1,0 @@
-/*
-The Sakila is a database that is used to gather and store informations about rentals and movies
-*/
