@@ -24,5 +24,5 @@ SELECT SupplierID, CompanyName FROM Suppliers WHERE CompanyName = 'Tokyo Traders
 
 --How many employees work at northwind? What employees have "manager"
 --somewhere in their job title? Write queries to answer each question.
-SELECT COUNT(*) AS EmployeeCount FROM Employees;
+SELECT COUNT(*) EmployeeCount FROM Employees;
 SELECT EmployeeID, Title, Firstname, LastName FROM Employees WHERE Title LIKE '%manager%'
