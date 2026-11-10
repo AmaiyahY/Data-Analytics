@@ -21,3 +21,10 @@ cents = cents + .25
 print (dollars + cents)
 # Gives me the results of 3.75 becasue it added
 # the extra .25 to the cents.
+
+
+
+d_str = '3 dollars'
+c_str = '50 cents'
+
+print(d_str + " " + c_str)
