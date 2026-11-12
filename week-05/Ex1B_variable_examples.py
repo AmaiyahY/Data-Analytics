@@ -30,19 +30,19 @@ print(keyword.kwlist)
 # Python. Add these 5 definitions as # comments to your exercise document. Put ^^
 # around any terms that you are not familiar with.
 
-None 
+#None 
 # Represents the absence of a value or a null value
 
-break
+#break
 # Exit a loop prematurely
 
-global
+#global
 # Declare a variable as global within a function, 
 # allowing it to be modified in the global scope
 
-in
+#in
 # Test for ^^membership^^ in a sequence
 
-yield
+#yield
 # used in a ^^generator fuctions^^ 
 # to produce a value
