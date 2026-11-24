@@ -1,0 +1,78 @@
+1. Before doing any other investigation, list two or three questions that this infographic
+and explanation of methodology raise in your mind.
+Why do people immediately go to food for comfort when going through a breakup?
+Why did they use only a year of search data and not more or less? (February 2024-February 2025)
+
+2. Where can you find Google Trends search data? Provide the URL.
+
+You can find Google Trends by simply typing "Google Trends" in your browser, and it should be the first link. https://trends.google.com/trends/
+
+
+3. The article concluded that “milkshakes take the crown as the ultimate breakup food,
+topping the list in six states.” Pull up Google Trends data on Milkshake (beverage) and
+change the date range to February 1, 2024 through February 28, 2025.
+
+a) What is the highest peak recorded in the line chart for “Interest over time”?
+
+The highest was 96-100
+
+
+b) What is the lowest dip recorded?
+
+The lowest was 64
+
+4. At the top next to the box for “Milkshake,” there is a plus sign to add another search
+term. Click the plus sign to add a search for Hamburger (Food).
+
+
+a) What is the highest peak recorded for searches using Hamburger? What is the
+lowest dip?
+
+The highest was 100, while the lowest was 72
+
+
+b) What happened to the line for Milkshake? What do the high and low look like now?
+
+The high and low have changed once the hamburger was added to the chart.
+
+5. Why did the line for Milkshake change? Hint: Click on the icon next to “Interest
+over time” for more information about how trend results are displayed.
+
+The reason the line for Milkshakes changed is that it's being compared to Hamburgers, which have a much higher interest search than the beverage.
+
+6. Add a third term to your search, this time for Breakup (Topic).
+
+a) Do you see any patterns that suggest a relationship between searches for Breakup
+and Hamburger?
+
+I do not see any pattern, as they have no relationship with each other.
+
+
+b) How about between Breakup and Milkshake?
+
+A relationship that I can see is that the relationship shifts depending on the seasons, with both of their highest peak hitting in the summer.
+
+7. What does all of this suggest about the reliability of the conclusions reached in the
+article?
+
+The article assume with the data they found, that most people going through a breakup use milkshakes as a comfort food, and while that may be true for some people, for it to have a high search rate alongside breakup might not be true, as those are two different behaviors. Depending on the season, like in the summer, some people might just want a sweet treat; that's why milkshake hits its highest in February through summer.
+
+8. Notice that this view includes a section for “Compared breakdown by subregion.”
+
+a) What was the top state by interest for Milkshake?
+
+North Carolina at 25%
+
+b) What was the top state by interest for Hamburger?
+
+
+South Dakota and Montana both at 75%
+
+
+
+
+
+
+
+
+
